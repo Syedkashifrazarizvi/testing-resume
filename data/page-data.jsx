@@ -6,8 +6,8 @@ export const personalData = {
 		"Master of Science in Electrical Engineering, MAJU (2018-2021)",
 	],
 	contactLinks: [
-		"mailto:emailto:time2code@gmail.com",
-		"https://twitter.com/time_tocode",
+		"mailto:kashifr684@gmail.com",
+		"https://twitter.com/Razasahab_85",
 		"https://linkedin.com/aliciarodriguezLi",
 		"https://medium.com/@time2code.ali",
 	],
