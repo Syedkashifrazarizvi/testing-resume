@@ -1,9 +1,9 @@
 export const personalData = {
-	name: "Joe Doe",
-	role: "Software Engineer",
+	name: "Kashif Raza",
+	role: "Electrical Engineer",
 	education: [
-		"Bachelor of Science in Computer Science, University of Oxford(2015-2019)",
-		"Master of Science in Artificial Intelligence, Imperial College London (2019-2021)",
+		"Bachelor of Technology in Electrical Engineering, NEDUET(2013-2016)",
+		"Master of Science in Electrical Engineering, MAJU (2018-2021)",
 	],
 	contactLinks: [
 		"mailto:emailto:time2code@gmail.com",
@@ -64,3 +64,5 @@ export const professionalData = {
 		},
 	],
 };
+
+
